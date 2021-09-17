@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         HoYoLab Dark Theme
 @source    https://github.com/Irilith/irisproject.github.io
-@version      1.0.0
+@version      1.0.1
 @author       Lilith Iris#7707
 ==/UserStyle== */
 
@@ -9,6 +9,8 @@
     background-color: #1b1e2f;
     color: #fff8f8;
 }
+
+
 .header {
     background-color: #1b1e2f;
 }
@@ -517,4 +519,95 @@ html, body {
     border-image-width: initial;
     border-image-outset: initial;
     border-image-repeat: initial;
+}
+
+.editor-container #toolbar.ql-toolbar {
+    border: none;
+    height: 56px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-left: 24px;
+    position: relative;
+    background-color: #00000038;
+    border-radius: 8px 8px 0 0;
+}
+
+.editor-container {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    border: 1px solid #0000001c;
+    border-radius: 8px;
+    position: relative;
+    min-height: 300px;
+    width: 100%;
+}
+
+.mhy-new-article__header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #0000001c;
+    margin: 0 24px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.mhy-classification-selector-menu {
+    position: absolute;
+    top: 40px;
+    left: -1px;
+    -webkit-box-shadow: 0 1px 8px 0 rgb(0 0 0 / 20%);
+    box-shadow: 0 1px 8px 0 rgb(0 0 0 / 20%);
+    border-radius: 10px;
+    background-color: #1b1e2f;
+    width: 588px;
+    height: 240px;
+    z-index: 200;
+    overflow: hidden;
+}
+
+.mhy-classification-selector-menu__classification {
+    position: absolute;
+    top: 0;
+    left: 160px;
+    right: 0;
+    height: 100%;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    border-left: 1px solid #0000001c;
+}
+.editor-container .editor-tool-popup {
+    position: absolute;
+    top: 40px;
+    z-index: 110;
+    border-radius: 8px;
+    background-color: #1b1e2f;
+    -webkit-box-shadow: 0 3px 5px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 3px 5px 0 rgb(0 0 0 / 10%);
+}
+
+.mhy-emoticon__list {
+    padding: 0 6px;
+    height: 184px;
+    padding-bottom: 4px;
+    background-color: #00000038;
+}
+
+.mhy-emoticon__bottom {
+    background-color: #00000038;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
 }
