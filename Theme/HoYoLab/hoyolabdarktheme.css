@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         HoYoLab Dark Theme
 @source    https://github.com/Irilith/irisproject.github.io
-@version      1.0.1
+@version      1.0.2
 @author       Lilith Iris#7707
 ==/UserStyle== */
 
@@ -610,4 +610,20 @@ html, body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+}
+
+.header-newpost-dialog__draft {
+    height: 52px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #8592a3;
+    background-color: #0000002b;
+    cursor: pointer;
 }
