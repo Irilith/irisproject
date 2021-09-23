@@ -11,6 +11,7 @@
 - Xem cách setup ở đây: https://streamable.com/yj1jrb
 - Nguồn: https://github.com/Irilith/irisproject/tree/main/Theme/miotranslator
 - [Raw](https://irilith.github.io/irisproject/Theme/miotranslator/miotranslatorcustomcolor.css): https://irilith.github.io/irisproject/Theme/miotranslator/miotranslatorcustomcolor.css
+- Chỉnh color thì chỉnh ở phần root --bacckground (tức màu của nền) và --textcolor (tức màu của chữ)
 ```css
 /* ==UserStyle==
 @name         miotranslator.com custom color picker
