@@ -8,6 +8,7 @@
 ## Installation
 - Xem cách setup ở đây: https://streamable.com/yj1jrb
 - Nguồn: https://github.com/Irilith/irisproject/tree/main/Theme/miotranslator
+- [Raw](https://irilith.github.io/irisproject/Theme/miotranslator/miotranslatorcustomcolor.css): https://irilith.github.io/irisproject/Theme/miotranslator/miotranslatorcustomcolor.css
 ```css
 /* ==UserStyle==
 @name         miotranslator.com custom color picker
