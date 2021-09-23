@@ -6,6 +6,7 @@
 - Để có [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) thì các bạn click vào chữ "[Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)" bất kỳ
 - Cái này rất đơn giản và ai cũng có thể làm được và mọi người có thể chỉnh sửa nếu thích
 - Website của nhóm dịch [Tsuki Ga Michibiku Isekai Douchuu VN-Fansub](https://www.facebook.com/groups/243732470248239): https://MioTranslator.com/
+- Page của nhóm dịch [Tsuki Ga Michibiku Isekai Douchuu VN-Fansub](https://www.facebook.com/groups/243732470248239): https://www.facebook.com/TsukiMichiVN
 ## Installation
 - Xem cách setup ở đây: https://streamable.com/yj1jrb
 - Nguồn: https://github.com/Irilith/irisproject/tree/main/Theme/miotranslator
