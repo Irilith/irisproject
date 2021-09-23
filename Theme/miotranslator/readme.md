@@ -5,6 +5,7 @@
 - Vì có lẽ Admin [Tsuki Ga Michibiku Isekai Douchuu VN-Fansub](https://miotranslator.com/) đã mệt nên mình nghỉ không nên làm phiền kêu tạo thêm switch mode qua white hoặc dark nên mình làm cái này để các bạn có thể tự chỉnh màu mình thích
 - Để có [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) thì các bạn click vào chữ "[Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)" bất kỳ
 - Cái này rất đơn giản và ai cũng có thể làm được và mọi người có thể chỉnh sửa nếu thích
+- Website: https://MioTranslator.com/
 ## Installation
 - Xem cách setup ở đây: https://streamable.com/yj1jrb
 - Nguồn: https://github.com/Irilith/irisproject/tree/main/Theme/miotranslator
