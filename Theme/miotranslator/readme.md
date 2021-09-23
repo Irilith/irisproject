@@ -2,6 +2,7 @@
 ## Vì có người muốn white theme và người thì muốn dark theme
 
 - Để dùng cái này cần 1 extension gọi là  [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) (lưu ý [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) không phải [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) mà dùng cái đó cũng được)
+- Cái này chỉ dùng được trên PC vì mình không biết bất kỳ extension đổi css nào trên điện thoại
 - Vì có lẽ Admin [Tsuki Ga Michibiku Isekai Douchuu VN-Fansub](https://miotranslator.com/) đã mệt nên mình nghỉ không nên làm phiền kêu tạo thêm switch mode qua white hoặc dark nên mình làm cái này để các bạn có thể tự chỉnh màu mình thích
 - Để có [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) thì các bạn click vào chữ "[Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)" bất kỳ
 - Cái này rất đơn giản và ai cũng có thể làm được và mọi người có thể chỉnh sửa nếu thích
