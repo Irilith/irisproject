@@ -1,0 +1,4 @@
+:root {
+	--background: #1b1e2f;
+	--textcolor: #f2f2f2;
+}
