@@ -6,5 +6,5 @@ This is where im saving my project
 
 | My Work | Link |
 | ------ | ------ |
-| hoYoLab | [https://irilith.github.io/irisproject/Theme/HoYoLab/][P1Db] |
-| MioTranslator | [https://irilith.github.io/irisproject/Theme/miotranslator/][PlDb] |
+| hoYoLab | [https://irilith.github.io/irisproject/Theme/HoYoLab/] |
+| MioTranslator | [https://irilith.github.io/irisproject/Theme/miotranslator/] |
