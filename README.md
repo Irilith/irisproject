@@ -8,3 +8,4 @@ This is where im saving my project
 | ------ | ------ |
 | hoYoLab | https://irilith.github.io/irisproject/Theme/HoYoLab/ |
 | MioTranslator | https://irilith.github.io/irisproject/Theme/miotranslator/ |
+| Bilibili.tv | https://irilith.github.io/irisproject/Theme/bilibiliglobal/ |
