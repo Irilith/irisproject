@@ -1,0 +1,204 @@
+/* ==UserStyle==
+@name         Bilibili Global Dark theme
+@source    https://github.com/Irilith/irisproject.github.io
+@version      1.0.1
+@description    a bilibili global version (.tv)
+@author       Lilith Iris#7707
+==/UserStyle== */
+
+/*Header*/
+
+.bstar-header {
+    border-bottom-color: rgb(27, 30, 47);
+    background: #1b1e2f;
+    background-color: rgb(27, 30, 47);
+}
+
+.bstar-sidebar {
+    background: #1b1e2f;
+    background-color: rgb(27, 30, 47);
+}
+.bstar-sidebar__link {
+    color: #fff;
+}
+.bstar-header__upload-btn {
+    color: #fff;
+    border: 1px solid #1b1e2f;
+    background-color: #1b1e2f;
+}
+.bstar-header__list-item {
+    color: #fff;
+}
+.popover, .bstar-header__popover-content {
+    border: 1px solid rgba(27, 30, 47);
+    background: rbg(27, 30, 47);
+    background-color: #1b1e2f;
+    box-shadow: 0 4px 10px rgb(27, 30, 47 / 20%);
+
+}
+.bstar-header__history-title {
+    color: #fff;
+}
+.bstar-header__popover-all {
+    color: #fffdfd;
+    background-color: #1b1e2f;
+}
+.popover, .bstar-header__dropdown-content {
+    border: 1px solid #1b1e2f;
+    background: #1b1e2f;
+    background-color: #1b1e2f;
+}
+.bstar-header-user-content__name {
+    color: #fff;
+}
+.search-suggest__item[data-v-e27a901f] {
+    color: #fff;
+}
+.search-bar__input[data-v-5567c74a] {
+    color: #fff;
+    background: #1b1e2f
+}
+.top-search[data-v-6b3b9229] {
+    color: #fff;
+}
+.wrapper-search[data-v-d4283142] {
+    color: #fff;
+}
+.bstar-tab--normalLine .bstar-tab__item.active[data-v-94046318] {
+    color: #fff;
+}
+.bstar-header-search-bar__input {
+    color: #fff;
+}
+.bstar-header-search-suggests {
+    padding: 12px 0;
+    background: #1b1e2f;
+}
+.bstar-header-search__popup {
+    border: 1px solid #1b1e2f;
+}
+.bstar-header-search-bar__input {
+    color: #fff;
+    background: #1b1e2f;
+}
+.bstar-header-search-suggest__item {
+    color: #fff;
+
+}
+.bstar-header-search-recommend {
+    color: #fff;
+    background: #1b1e2f;
+}
+.bstar-tab__item.active {
+    color: #fff;
+}
+.category-title__text[data-v-0730c448] {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+}
+.comp-uploader-card__body-desc_item em[data-v-ab4833e4] {
+    color: #fff;
+}
+.highlight-word {
+    color: #fff;
+}
+.bstar-header-search-history__title {
+    color: #fff;
+}
+.bstar-header-search-top-card__title {
+    color: #fff;
+}
+.bstar-header__empty[data-v-556e3e48] {
+    background: #1b1e2f;
+}
+/*Background*/
+.html, body {
+    background-color: #1b1e2f;
+}
+/*Card*/
+.section-title__text[data-v-0eeb64dd] {
+    color: #fff;
+}
+.bstar-video-card__desc {
+    position: relative;
+    font-weight: 400;
+    color: #dfdfdf;
+}
+.bstar-video-card__title {
+    color: #fff;
+}
+.timeline-tab__item[data-v-95892f62] {
+    color: #fff;
+}
+/*Inside*/
+.comment-send__textarea__inner>textarea[data-v-e1dd05eb], .comment-send__textarea__inner[data-v-e1dd05eb]:after {
+    color: #fff;
+}
+.comment-wrap__total[data-v-bb2c21da] {
+    color: #ddd;
+}
+.space-info__name[data-v-90b434db] {
+    color: #fff;
+}
+.bstar-form-item.is-primary .bstar-form-item__label {
+    color: #fff;
+}
+.bstar-input--has-suffix .bstar-input__inner[data-v-36d94ece], .bstar-input--limit .bstar-input__inner[data-v-36d94ece] {
+    background: rgba(153,153,153,.1);
+    border-color: transparent;
+    color: #fff;
+}
+.textarea[data-v-8c52517f] {
+    background: rgba(153,153,153,.1);
+    border-color: transparent;
+}
+.textarea__inner[data-v-8c52517f] {
+    background: rgba(153,153,153,.1);
+    border-color: transparent;
+    color: #fff;
+}
+.category__container[data-v-7bc3102d] {
+    background: rgba(153,153,153,.1);
+    border-color: transparent;
+}
+.comment-wrap__send--bottom[data-v-bb2c21da] {
+    background: rgba(153,153,153,.1);
+    border-color: transparent;
+}
+.category__title[data-v-7bc3102d] {
+    color: #fff;
+}
+.interactive[data-v-74702a98] {
+    background: #1b1e2f;
+}
+.interactive__btn[data-v-74702a98] {
+    color: #fff;
+}
+.bstar-meta {
+    color: #fff;
+}
+.bstar-meta__title {
+    color: #fff;
+}
+.bstar-meta__alias-label, .bstar-meta__origin-name-label {
+    color: #fff;
+}
+.ep-item__reference {
+    color: #fff;
+}
+.breadcrumb__item[data-v-98eac012] {
+    color: #fff;
+}
+.comment[data-v-33d6e3ff] {
+    color: #fff;
+}
+.comment--pc .comment__name h5[data-v-33d6e3ff] {
+    color: #fff;
+}
+.comment__operate__item[data-v-33d6e3ff] {
+    color: #fff;
+}
+.children-comment-list__operate-item[data-v-d1dc6c8a] {
+    color: #fff;
+}

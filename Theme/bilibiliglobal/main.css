@@ -1,0 +1,11 @@
+/* ==UserStyle==
+@name         BiliBili Global Version
+@namespace    https://github.com/Irilith/irisproject.github.io
+@version      1.0.0
+@author       Lilith Iris#7707
+==/UserStyle== */
+
+@-moz-document domain("hoyolab.com") {
+
+@import url("https://irilith.github.io/irisproject/Theme/bilibiliglobal/bilibiliglobal.css");
+}
