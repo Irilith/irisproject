@@ -1,4 +1,4 @@
 {
     "test1": {"user": "Test", "discord": "test", "discoid": 201892},
-    "0f52963b68f55960bd1172e7347ac79e38d004ea0c3eae15dcfc519daab9f71d": {"user": "test", "discord": "id", "discoid": 201892}
+    "test2": {"user": "test", "discord": "id", "discoid": 201892}
 }
